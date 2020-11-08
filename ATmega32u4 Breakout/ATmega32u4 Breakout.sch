@@ -46,9 +46,7 @@ F 3 "~" H 8000 3500 50  0001 C CNN
 	1    8000 3500
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6350 4200 6500 4200
-Text GLabel 6500 4200 2    50   Input ~ 0
+Text GLabel 6350 4200 2    50   Input ~ 0
 D7
 Text GLabel 3200 2500 2    50   Input ~ 0
 D7
